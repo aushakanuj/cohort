@@ -1,1 +1,1 @@
-# cohort
+# directory for assignments
