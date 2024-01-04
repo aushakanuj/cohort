@@ -9,5 +9,6 @@ function findSumTill100() {
   return findSum(100);
 }
 
-console.log(setTimeout(findSumTill100, 10000));
+a = setTimeout(findSumTill100, 1000);
 console.log("hello world");
+console.log(a);
